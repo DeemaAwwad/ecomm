@@ -1,0 +1,19 @@
+.navbar{
+background-color: rgb(38, 33, 33) !important;
+height: 10rem;
+
+}
+
+.navbar-brand{
+    color: rgb(46, 99, 160) !important;
+    font-size: 2rem;
+}
+.navbar-collapse ul a{
+    color: rgb(46, 99, 160) !important;
+    font-size: 1.3rem;
+}
+body{
+background-image: url('./360_F_232160763_FuTBWDd981tvYEJFXpFZtolm8l4ct0Nz.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
